@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tweets Contest - Terms and Conditions
+title: Terms and Conditions
 nav_order: 1
 description: "Developer Student Clubs OMG Tweet Contest Terms and Conditions"
 permalink: /
