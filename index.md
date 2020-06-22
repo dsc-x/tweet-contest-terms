@@ -1,96 +1,85 @@
 ---
 layout: default
-title: Home
+title: Tweets Contest - Terms and Conditions
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Developer Student Clubs OMG Tweet Contest Terms and Conditions"
 permalink: /
 ---
 
-# Focus on writing good documentation
-{: .fs-9 }
+# Developer Student Clubs OMG - Tweets Contest - Terms and Conditions 
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
+Interested in being a part of the Developer Student Clubs OMG - Tweets Contest? We are happy to have you onboard, but before you start your journey towards the amazing gifts we have for you, here are a few pointers to keep in mind - 
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
----
+## General Contest Rules:
 
-## Getting started
+1. The contest runs from 00:00 IST (GMT +5:30) of 23rd June, 2020 to 23:59 IST (GMT +5:30) of 29th June, 2020 strictly on the [Twitter](https://twitter.com) platform. Any entries made out of this duration or any other platform will be ignored. However, any discoverable breach of [Content Guidelines](#Content%20Guidelines) even outside this duration or platform will be equally accounted and dealt with as mentioned in the guidelines.
 
-### Dependencies
+2. The winners of the contest will be announced on 7th July, 2020. However, this date is subject to change without prior information based on the volume of participation in the contest or other unavoidable circumstances which the organizers of the contest are not liable to disclose. All updates for any such change will be notified over the [OMG Twitter channel](https://twitter.com/OmgDsc).
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+3. Disbursement of prizes as mentioned in the [Prizes](#Prizes) section will be processed after the announcement of winners, collection of requisite details and verification of eligibility of winners. All communication will be done over OMG Twitter channel and official email [hello@dscomg.com](mailto:hello@dscomg.com).
 
-### Quick start: Use as a GitHub Pages remote theme
+4. To be eligible for the giveaway, you need to be a citizen of India between the entire event duration and till the time you receive any giveaway prizes if you are eligible to win them as per rules mentioned in the [Contest Winning Criteria](#Contest%20Winning%20Criteria).
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+5. You are not allowed to hire/pay/provide an incentive to anyone for participating on your behalf in the contest.
 
-### Local installation: Use the gem-based theme
+6. You cannot be an employee of [Google](https://www.google.com/) or any subsidiary of [Alphabet](https://abc.xyz/) or are bound legally by your employer to not receive giveaways. 
 
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
+7. Organizers reserve the right to cancel this contest at any moment due to unforeseeable events. Decisions made by organizers will be final and non-debatable.
 
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
 
-### Configure Just the Docs
+## Contest Winning Criteria:
 
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+We’ll be using automated tools to collect all tweets made with the official hashtag **#dscomg** within the duration of the event on the Twitter platform. We’ll then subject the tweets to the compliance of the [Content Guidelines](#Content%20Guidelines) and the following criteria -
 
----
+1. All entrants start with a Score of 0.
+2. Score incremented by 1 for each eligible unique tweet content.
+3. Score incremented by 1 for each “retweet with comment” with unique comment.
+4. Score incremented by 1 for each “retweet” of tweet carrying hashtag **#dscomg**.
 
-## About the project
+The final rank list will list the top 16 entries in descending order of total score obtained. 
 
-Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill.com).
 
-### License
+## Prizes:
 
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+The prizes allotted to winning entries will be - 
 
-### Contributing
+1. Top 1 winner - 1 Google Play voucher worth INR 1000 only.
+2. Next 5 winners - 1 Google Play voucher worth INR 250 only.
+3. Next 10 winners - 1 Google Play voucher worth INR 100 only.
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
+## Content Guidelines:
 
-#### Thank you to the contributors of Just the Docs!
+### DOs - 
 
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
+1. Use the event hashtag **#dscomg** anywhere in the tweet. Tweets not containing this hashtag will not be considered as part of the contest and will be ignored.
 
-### Code of Conduct
+2. Usage of topics and content relevant to OMG
 
-Just the Docs is committed to fostering a welcoming community.
+    a. Creating tweets with content that is strongly related to OMG using hashtags which relate to a technology-focused event
+    b. Talk only about the event or the happenings within the event. Use related hashtags and tag people only related to the event in any capacity of speakers/organizers/viewers or sponsors.
 
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+3. Follow the Twitter Rules
+
+    a. Follow the platform rules of Twitter - [https://help.twitter.com/en/rules-and-policies/twitter-rules](https://help.twitter.com/en/rules-and-policies/twitter-rules)
+
+    b. Read and understand Twitter Search best practices - [https://help.twitter.com/en/rules-and-policies/twitter-search-policies](https://help.twitter.com/en/rules-and-policies/twitter-search-policies)
+
+
+4. Comply with laws and regulations of India
+
+    a. Read and understand Indian Cyber laws - [https://meity.gov.in/content/cyber-laws](https://meity.gov.in/content/cyber-laws)
+
+    b. In a gist - do not post any content which might be taken as demeaning by any section of the society, targets any specific person, is hate speech or tries to make commentary on any social or political event, people, place or entity.
+
+5. Maintain professional language - use kind and professionally acceptable language. Usage of derogatory terms or ‘slangs’ in any language in any of your entries, either intended or unintended manner shall be flagged and all entries from you will be rejected.
+
+### DO NOTs - 
+
+1. Creation of multiple accounts - if you create a lot of accounts in order to enter a contest more than once, you’re liable to get all of your accounts suspended as per Twitter Guidelines Anyone found to use multiple accounts to enter will be ineligible.
+
+2. Posting the same Tweet repeatedly - posting duplicate or near-duplicate content is a violation of the Twitter Rules and jeopardizes search quality. Make sure you have at least 50% original tweets.  If you only retweet massively, your account will automatically be filtered out of the search by Twitter and we won’t be able to find your tweets.
+
+With the ground rules set, let’s fly high with the tweetstorm and grab those amazing vouchers!
+
+\- Team Developer Student Clubs OMG
