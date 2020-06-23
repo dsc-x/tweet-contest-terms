@@ -86,4 +86,4 @@ With the ground rules set, let’s fly high with the tweetstorm and grab those a
 
 ## Disclaimer
 
-Google or Google Developers or its employees or its associated entities and service providers are not associated with this contest.  All the content and content terms here mentioned herein are as per our closed group community and it's fair definitions.
+Google or Google Developers or its employees or its associated entities and service providers are not associated with this contest.  All the contest and content terms here mentioned herein are as per our closed group community and it's fair definitions.
