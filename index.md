@@ -23,7 +23,7 @@ Interested in being a part of the Developer Student Clubs OMG - Tweets Contest? 
 
 5. You are not allowed to hire/pay/provide an incentive to anyone for participating on your behalf in the contest.
 
-6. You cannot be an employee of [Google](https://www.google.com/) or any subsidiary of [Alphabet](https://abc.xyz/) or are bound legally by your employer to not receive giveaways. 
+6. You are not bound legally by your employer to not receive giveaways. 
 
 7. Organizers reserve the right to cancel this contest at any moment due to unforeseeable events. Decisions made by organizers will be final and non-debatable.
 
@@ -83,3 +83,7 @@ The prizes allotted to winning entries will be -
 With the ground rules set, let’s fly high with the tweetstorm and grab those amazing vouchers!
 
 \- Team Developer Student Clubs OMG
+
+## Disclaimer
+
+Google or Google Developers or its employees or its associated entities and service providers are not associated with this contest.  All the content and content terms here mentioned herein are as per our closed group community and it's fair definitions.
